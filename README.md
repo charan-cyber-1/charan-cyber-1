@@ -89,25 +89,15 @@ Status      Building...
 
 ## 🚀 Projects
 
-### 🔍 CyberLens
+### 🔐 Cipher
 
-Cybersecurity analysis dashboard — a full-stack frontend demo covering scan consoles, vulnerability reporting, and domain/network intelligence views, built as a diploma final year project.
+A cryptography-focused project for experimenting with encryption, decryption, and secure data handling.
 
-<a href="https://github.com/charan-cyber-1/CyberLens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charan-cyber-1&repo=CyberLens&theme=synthwave&hide_border=true&bg_color=0D1117" />
-</a>
 
-<a href="https://github.com/charan-cyber-1/Project-02">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charan-cyber-1&repo=Project-02&theme=synthwave&hide_border=true&bg_color=0D1117" />
-</a>
+### 🌐 Network Scanners
 
-<a href="https://github.com/charan-cyber-1/Project-03">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charan-cyber-1&repo=Project-03&theme=synthwave&hide_border=true&bg_color=0D1117" />
-</a>
+A network security project focused on discovering hosts, analyzing network services, and exploring network visibility through scanning techniques.
 
-<a href="https://github.com/charan-cyber-1/Project-04">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charan-cyber-1&repo=Project-04&theme=synthwave&hide_border=true&bg_color=0D1117" />
-</a>
 
 <br><br>
 
@@ -182,6 +172,12 @@ $ tail -f /var/log/charan.log
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charan-cyber-1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-jagarlapudi)
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/BatmanChar81719)
+
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019e736a-ec20-732c-9a59-905103ac2a7f)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jlncharan99)
 
 <br>
 
